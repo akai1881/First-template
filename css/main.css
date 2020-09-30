@@ -28,19 +28,3 @@ h6 {
 p {
 	margin: 0;
 }
-
-.container {
-	width: 100%;
-	max-width: 1100px;
-	margin: 0 auto;
-}
-
-.number {
-	position: absolute;
-	font-family: "Playfair Display";
-	font-weight: 700;
-	font-size: 400px;
-	line-height: 1;
-	text-align: center;
-	opacity: 0.02;
-}
